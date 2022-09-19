@@ -1,0 +1,2 @@
+Aqui inicio o primerio passo para elaboração de projetos no Git e GitHub, a partir das aulas da DIO e seus colaboradores
+Pondo em pratica o conhecimento adquirido nas aulas anteriores
